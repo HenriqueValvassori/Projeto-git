@@ -1,5 +1,13 @@
 create database Escola
 
 use Escola
-
-
+create table aluno(
+RA_Aluno int Primaryu Key,
+Nome_Aluno varchar(50),
+Telefone_Aluno varchar(50)
+)
+create table Professor(
+RM_Professor int primary key,
+nome_Professor varchar(50),
+Telçefone_Professor varchar(50)
+)
