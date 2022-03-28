@@ -11,3 +11,4 @@ RM_Professor int primary key,
 nome_Professor varchar(50),
 Telçefone_Professor varchar(50)
 )
+select * from aluno;
